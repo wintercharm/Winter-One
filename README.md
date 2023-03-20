@@ -1,9 +1,10 @@
 # Winter-One
-Winter One SFFPC Case
+Winter One SFFPC Case!
+
+[4ab4fb_02534cf7161d4a5695644483433a4a5b~mv2](https://user-images.githubusercontent.com/69655870/226226688-f3645d16-e089-48d1-abea-1781f92ecc4e.png)
 
 ## The New Cold Standard
 Winter One was designed with the utmost care to deliver unprecedented cooling, whisper-quiet operation, and great hardware compatibility in a compact size.
-
 
 ## Small, Yet Mighty
 At just 15.6 L, Winter One supports desktop-class components like dual 280 mm radiators, 3-slot graphics cards, and 70 mm CPU coolers.
@@ -15,17 +16,24 @@ Winter One uses the innovative Sandwich Layout, refined. We eliminated the centr
 The frameless architecture of Winter One maximizes the interior volume. With ample room to route tubing, mount a pump, attach a drive cage, and add fans or radiators, you can build your dream system.
 
 ### Building in Winter One
-A build video can be found [here](https://youtu.be/ClOrqQxKIzM)
-Linus Tech Tips review & watercooled build of this case can be found [here](https://www.youtube.com/watch?v=BoFxslm6DKY)
+Air Cooled Build Video
+{% include youtube.html id="ClOrqQxKIzM" %}
+
+Linus Tech Tips review & watercooled build video:
+{% include youtube.html id="BoFxslm6DKY" %}
 
 ### Beauty Through Simplicity
 The visually balanced exterior design conveys harmony and serenity, while the clean lines and anodized, bead-blasted aluminum command attention.
+
+![Double Case - Oblique 3](https://user-images.githubusercontent.com/69655870/226227090-115b2ce8-94ea-470a-b137-18b5a58b8f48.png)
 
 ## Engineered to Perform
 Thousands of hours of design and computational fluid dynamics have gone into crafting airflow through Winter One. Hello science, goodbye thermal throttling.
 
 ### It All Starts With CFD
 The promise of Small Form Factor systems has always been putting desktop components into a small space. But the biggest drawback has always been thermals and noise. Until Now.
+
+![Screen Shot 2021-04-23 at 12_16_19 PM_pn](https://user-images.githubusercontent.com/69655870/226227383-dc302ee0-a118-43de-9b94-db9324d86e85.png)
 
 ### Airflow Enhancements in Winter One
 #### Reducing Flow Restriction across panels
@@ -51,6 +59,8 @@ The perfectly sized holes for airflow are also carefully acoustically optimized,
 
 ## Specifications
 
+![Side Profile w Panel](https://user-images.githubusercontent.com/69655870/226227126-ba805035-2205-4953-a7ee-317ff14b360a.png)
+
 ### Dimensions and Weight
 
 **Volume:** 15.6 L
@@ -69,8 +79,10 @@ H: 32.2 cm (12.7 in)
 **Weight:** 1.9 kg (4.2 lb)
 
 ### Part Compatibility 
+![4ab4fb_482371a2333d489d930ea15a6e4dff3b~mv2](https://user-images.githubusercontent.com/69655870/226226210-0a754b01-1799-4082-8f3e-2a5e6ff83c0e.png)
 
 ### User Manual
+[Winter One Manual v12 rev9.pdf](https://github.com/wintercharm/Winter-One/files/11012925/Winter.One.Manual.v12.rev9.pdf)
 
 ## License 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/">Creative Commons Attribution-NonCommercial 3.0 Unported License</a>.
