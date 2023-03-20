@@ -1,5 +1,5 @@
 # Winter-One
-Winter One SFFPC Case!
+Winter One SFFPC Case! Created by wintercharm & rayyanalam01
 
 ![4ab4fb_02534cf7161d4a5695644483433a4a5b~mv2](https://user-images.githubusercontent.com/69655870/226226688-f3645d16-e089-48d1-abea-1781f92ecc4e.png)
 
