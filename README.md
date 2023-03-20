@@ -1,7 +1,7 @@
 # Winter-One
 Winter One SFFPC Case!
 
-[4ab4fb_02534cf7161d4a5695644483433a4a5b~mv2](https://user-images.githubusercontent.com/69655870/226226688-f3645d16-e089-48d1-abea-1781f92ecc4e.png)
+![4ab4fb_02534cf7161d4a5695644483433a4a5b~mv2](https://user-images.githubusercontent.com/69655870/226226688-f3645d16-e089-48d1-abea-1781f92ecc4e.png)
 
 ## The New Cold Standard
 Winter One was designed with the utmost care to deliver unprecedented cooling, whisper-quiet operation, and great hardware compatibility in a compact size.
@@ -19,15 +19,11 @@ The frameless architecture of Winter One maximizes the interior volume. With amp
 
 #### Air Cooled Build Video
 
-[![WinterCharm's Air Cooled Build]
-(https://img.youtube.com/vi/ClOrqQxKIzM/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=ClOrqQxKIzM)
+[![WinterCharm's Air Cooled Build](https://img.youtube.com/vi/ClOrqQxKIzM/maxresdefault.jpg)](https://www.youtube.com/watch?v=ClOrqQxKIzM)
 
 #### Water Cooled Build Video
 
-[![Linus Tech Tips Review & Watercooling Build]
-(https://img.youtube.com/vi/BoFxslm6DKY/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=BoFxslm6DKY)
+[![Linus Tech Tips Review & Watercooling Build](https://img.youtube.com/vi/BoFxslm6DKY/maxresdefault.jpg)](https://www.youtube.com/watch?v=BoFxslm6DKY)
 
 ### Beauty Through Simplicity
 The visually balanced exterior design conveys harmony and serenity, while the clean lines and anodized, bead-blasted aluminum command attention.
