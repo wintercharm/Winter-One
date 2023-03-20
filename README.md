@@ -16,11 +16,16 @@ Winter One uses the innovative Sandwich Layout, refined. We eliminated the centr
 The frameless architecture of Winter One maximizes the interior volume. With ample room to route tubing, mount a pump, attach a drive cage, and add fans or radiators, you can build your dream system.
 
 ### Building in Winter One
-Air Cooled Build Video
-{% include youtube.html id="ClOrqQxKIzM" %}
 
-Linus Tech Tips review & watercooled build video:
-{% include youtube.html id="BoFxslm6DKY" %}
+#### Air Cooled Build Video
+
+{% raw %} {% include youtube.html id="ClOrqQxKIzM" %}
+{% endraw %}
+
+#### Linus Tech Tips review & watercooled build video:
+
+{% raw %} {% include youtube.html id="BoFxslm6DKY" %}
+{% endraw %}
 
 ### Beauty Through Simplicity
 The visually balanced exterior design conveys harmony and serenity, while the clean lines and anodized, bead-blasted aluminum command attention.
