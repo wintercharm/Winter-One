@@ -19,13 +19,15 @@ The frameless architecture of Winter One maximizes the interior volume. With amp
 
 #### Air Cooled Build Video
 
-{% raw %} {% include youtube.html id="ClOrqQxKIzM" %}
-{% endraw %}
+[![WinterCharm's Air Cooled Build]
+(https://img.youtube.com/vi/ClOrqQxKIzM/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=ClOrqQxKIzM)
 
-#### Linus Tech Tips review & watercooled build video:
+#### Water Cooled Build Video
 
-{% raw %} {% include youtube.html id="BoFxslm6DKY" %}
-{% endraw %}
+[![Linus Tech Tips Review & Watercooling Build]
+(https://img.youtube.com/vi/BoFxslm6DKY/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=BoFxslm6DKY)
 
 ### Beauty Through Simplicity
 The visually balanced exterior design conveys harmony and serenity, while the clean lines and anodized, bead-blasted aluminum command attention.
