@@ -25,6 +25,9 @@ The frameless architecture of Winter One maximizes the interior volume. With amp
 
 [![Linus Tech Tips Review & Watercooling Build](https://img.youtube.com/vi/BoFxslm6DKY/maxresdefault.jpg)](https://www.youtube.com/watch?v=BoFxslm6DKY)
 
+#### WinterCharm's Personal Build
+[Small Winter Collider](https://pcpartpicker.com/b/QjBcCJ)
+
 ### Beauty Through Simplicity
 The visually balanced exterior design conveys harmony and serenity, while the clean lines and anodized, bead-blasted aluminum command attention.
 
